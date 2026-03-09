@@ -1,1 +1,1 @@
-# https-githubEnforcing_Mandatory_Fields-Using_UI_Policies_and_Migrating_Changes_with_Update_Sets
+This project demonstrates how ServiceNow UI Policies can be used to enforce business rules dynamically. It ensures that the Priority field becomes mandatory when the incident State is set to “In Progress.” This helps maintain complete and accurate incident records. The project also uses Update Sets to capture and migrate configuration changes between different ServiceNow instances. Overall, it improves data quality and efficiency in incident management.
